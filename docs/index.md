@@ -3,10 +3,10 @@ layout: home
 ---
 
 # Machine learning for atmospheric processes
-*Half-day workshop at ECML PKDD 2023*
+*Proposed half-day workshop at ECML PKDD 2023*
 
 ## Abstract
-This half-day workshop, organised in conjunction with ECML PKDD 2023 conference,
+This proposed half-day workshop, organised in conjunction with ECML PKDD 2023 conference,
 aims to bring domain atmospheric scientists and machine learners together to
 understand micro-scale processes within the atmosphere and their effects on the
 larger scales, including climate change and weather.
