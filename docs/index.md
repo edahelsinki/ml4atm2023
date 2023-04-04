@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-
-# Machine learning for atmospheric processes
 *Proposed half-day workshop at ECML PKDD 2023*
 
 ## Abstract

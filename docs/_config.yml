@@ -1,5 +1,6 @@
 remote_theme: "jekyll/minima"
 baseurl: "/ml4atm2023"
+title: 'Machine learning for atmospheric processes workshop'
 description: 'Spring 2023, ECML PKDD half-day workshop'
 author: Kai Puolamäki
 email: kai.puolamaki@helsinki.fi
